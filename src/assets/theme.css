@@ -1,0 +1,15 @@
+:root {
+  --dark: #0f0f0f;
+  --gray-rgb: rgb(35, 45, 63);
+  --gray: #232d3f;
+  --dark-green: #005b41;
+  --light-green: #008170;
+  --yellow: #ffba11;
+  --magenta: #e5007d;
+  --light-green: #c3d625;
+  --green: #019c45;
+  --text: #3a3a3a;
+  --text-grey: #91959f;
+  --bright: #ccdaeb;
+  --very-bright: #f0f2f7;
+}
